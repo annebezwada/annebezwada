@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Check out my projects @ <a href="https://www.annebezwada.com"> Anne Bezwada </a> ✍🏾
+- My Tableau profile <a href="https://public.tableau.com/app/profile/anne.b.3216"> Tableau</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/annebezwada/">LinkedIn</a> 💼
