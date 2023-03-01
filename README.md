@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <img src="https://github.com/annebezwada/annebezwada/blob/main/Anne%20Bezwada%20Header%20(1).png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a senior at the UMD iSchool, majoring in Information Science. I enjoy using numbers and data to tell amazing stories. I am currently learning data analysis and data visualization, using Tableau and Power BI. 
