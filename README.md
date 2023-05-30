@@ -6,5 +6,5 @@ I'm a senior at the UMD iSchool, majoring in Information Science. I enjoy using 
 
 ## Find me around the web 🌎:
 - Check out my projects @ <a href="https://www.annebezwada.com"> Anne Bezwada </a> ✍🏾
-- My Tableau profile <a href="https://public.tableau.com/app/profile/anne.b.3216"> Tableau</a> 🏓
+- My Tableau profile <a href="https://public.tableau.com/app/profile/anne.b.3216"> Tableau</a> 👩🏽‍💻
 - Sharing updates on <a href="https://www.linkedin.com/in/annebezwada/">LinkedIn</a> 💼
