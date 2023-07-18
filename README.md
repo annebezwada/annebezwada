@@ -7,4 +7,4 @@ I'm a recent grad (May 2023) from  UMD's iSchool, majoring in Information Scienc
 ## Find me around the web 🌎:
 - Check out my projects @ <a href="https://www.annebezwada.com"> Anne Bezwada </a> ✍🏾
 - My Tableau profile <a href="https://public.tableau.com/app/profile/anne.b.3216"> Tableau</a> 👩🏽‍💻
-- Sharing updates on <a href="https://www.linkedin.com/in/annebezwada/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/anne-bezwada/">LinkedIn</a> 💼
